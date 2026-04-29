@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Consultancy Services",
+    "location": "Bangalore",
+    "industry": "IT Services",
+    "description": "Global technology consulting and digital transformation services for enterprises across industries.",
+    "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Reliance Industries",
+    "location": "Mumbai",
+    "industry": "Energy",
+    "description": "Integrated energy, materials, retail, and telecom business with a strong India-wide footprint.",
+    "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 3,
+    "name": "HDFC Bank",
+    "location": "Mumbai",
+    "industry": "Banking",
+    "description": "Leading private bank offering retail banking, loans, investments, and digital services nationwide.",
+    "imageUrl": "https://images.unsplash.com/photo-1490138900142-83cf8e345219?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Infosys",
+    "location": "Bangalore",
+    "industry": "IT Services",
+    "description": "Digital services and consulting firm helping enterprises innovate with AI, cloud, and automation.",
+    "imageUrl": "https://images.unsplash.com/photo-1515169067865-5387ec356754?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Flipkart",
+    "location": "Bangalore",
+    "industry": "eCommerce",
+    "description": "India’s homegrown marketplace offering fashion, electronics, and fast delivery across cities.",
+    "imageUrl": "https://images.unsplash.com/photo-1506619216599-9d16e22d7bdc?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Zomato",
+    "location": "Gurugram",
+    "industry": "Foodtech",
+    "description": "Food delivery and restaurant discovery platform connecting diners with local kitchens.",
+    "imageUrl": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Ola Cabs",
+    "location": "Bangalore",
+    "industry": "Transportation",
+    "description": "Ride-hailing and mobility platform offering cabs, autos, and electric vehicle services.",
+    "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 8,
+    "name": "BYJU'S",
+    "location": "Bangalore",
+    "industry": "EdTech",
+    "description": "Adaptive learning platform delivering online classes, exam prep, and personalized coaching.",
+    "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Biocon",
+    "location": "Bangalore",
+    "industry": "Healthcare",
+    "description": "Biopharma leader focused on affordable insulin, oncology, and biosimilar medicines.",
+    "imageUrl": "https://images.unsplash.com/photo-1580281657529-7a2e129b1f8b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Asian Paints",
+    "location": "Mumbai",
+    "industry": "Manufacturing",
+    "description": "Leading paints and coatings manufacturer delivering home decor and industrial products.",
+    "imageUrl": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Mahindra & Mahindra",
+    "location": "Mumbai",
+    "industry": "Automotive",
+    "description": "Manufacturer of SUVs, commercial vehicles, and agricultural equipment with global reach.",
+    "imageUrl": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Swiggy",
+    "location": "Bangalore",
+    "industry": "Foodtech",
+    "description": "On-demand delivery platform serving meals, groceries, and everyday essentials across India.",
+    "imageUrl": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Nykaa",
+    "location": "Mumbai",
+    "industry": "Retail",
+    "description": "Beauty and fashion marketplace offering cosmetics, personal care, and wellness products.",
+    "imageUrl": "https://images.unsplash.com/photo-1514995669114-7ffdb9c6f911?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Tata Motors",
+    "location": "Pune",
+    "industry": "Automotive",
+    "description": "Manufacturer of passenger cars, trucks, and electric vehicles for India and export markets.",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b4b92d74?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 15,
+    "name": "PharmEasy",
+    "location": "Mumbai",
+    "industry": "Healthtech",
+    "description": "Online pharmacy and telehealth service providing medicine delivery and remote consultations.",
+    "imageUrl": "https://images.unsplash.com/photo-1580281657529-7a2e129b1f8b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Frontlines Edutech",
+    "location": "Hyderabad",
+    "industry": "EdTech",
+    "description": "A Hyderabad-based education technology company delivering interactive learning tools and career readiness programs.",
+    "imageUrl": "https://images.unsplash.com/photo-1496307653780-42ee777d4833?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 17,
+    "name": "PolicyBazaar",
+    "location": "Gurugram",
+    "industry": "Fintech",
+    "description": "Digital insurance marketplace connecting customers to health, life, and retail insurance solutions.",
+    "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Delhivery",
+    "location": "Gurugram",
+    "industry": "Transportation",
+    "description": "Logistics and supply chain platform offering express delivery, warehousing, and fulfillment services.",
+    "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Bajaj Auto",
+    "location": "Pune",
+    "industry": "Automotive",
+    "description": "Manufacturer of motorcycles, three-wheelers and electric mobility products for Indian riders.",
+    "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Cybage",
+    "location": "Pune",
+    "industry": "IT Services",
+    "description": "Engineering and technology services firm supporting software development and digital transformation.",
+    "imageUrl": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 21,
+    "name": "Dr. Reddy's Laboratories",
+    "location": "Hyderabad",
+    "industry": "Healthcare",
+    "description": "Pharmaceutical research and manufacturing company delivering medicines and therapies worldwide.",
+    "imageUrl": "https://images.unsplash.com/photo-1581091870622-7cf5d7cb7f56?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 22,
+    "name": "CarDekho",
+    "location": "Hyderabad",
+    "industry": "Automotive",
+    "description": "Online auto portal offering car listings, financing, and vehicle research for Indian buyers.",
+    "imageUrl": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80"
+  }
+]

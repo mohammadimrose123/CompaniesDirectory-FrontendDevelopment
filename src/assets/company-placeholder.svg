@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="url(#gradient)" />
+  <circle cx="240" cy="220" r="80" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="740" cy="240" r="60" fill="#ffffff" fill-opacity="0.18" />
+  <rect x="210" y="520" width="780" height="220" rx="30" fill="#ffffff" fill-opacity="0.15" />
+  <path d="M240 560H690" stroke="#ffffff" stroke-width="25" stroke-linecap="round" />
+  <path d="M240 640H540" stroke="#ffffff" stroke-width="20" stroke-linecap="round" />
+  <path d="M850 240C850 194.412 893.412 151 939 151H1024C1069.59 151 1113 194.412 1113 240V354C1113 399.588 1069.59 443 1024 443H939C893.412 443 850 399.588 850 354V240Z" fill="#ffffff" fill-opacity="0.12" />
+  <path d="M918 284.5C918 262.565 936.065 244.5 958 244.5H1005C1026.94 244.5 1045 262.565 1045 284.5V309.5C1045 331.435 1026.94 349.5 1005 349.5H958C936.065 349.5 918 331.435 918 309.5V284.5Z" fill="#ffffff" fill-opacity="0.22" />
+  <text x="50%" y="760" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-size="40" font-weight="600">Company Preview</text>
+</svg>

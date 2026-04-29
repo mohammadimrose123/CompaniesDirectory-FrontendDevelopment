@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+  background-image:
+    radial-gradient(circle at top left, rgba(56,189,248,0.16), transparent 24%),
+    radial-gradient(circle at bottom right, rgba(16,185,129,0.12), transparent 18%);
+}
+
+* {
+  @apply box-border;
+}
+
+::selection {
+  @apply bg-sky-200 text-slate-900;
+}
